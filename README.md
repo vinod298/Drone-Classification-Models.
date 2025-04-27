@@ -32,8 +32,10 @@ This project provides a graphical user interface for processing drone images, tr
 ## Installation
 
 1. Clone this repository
+   ```
    clone url https://github.com/vinod298/Drone-Classification-Models..git
    cd Drone-Classification-Models.
+   ```
 3. Install required packages:
    ```
    pip install pandas numpy matplotlib scikit-learn scikit-image seaborn joblib
